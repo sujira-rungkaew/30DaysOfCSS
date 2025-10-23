@@ -1,6 +1,6 @@
 body {
   min-height: 100vh;
-  background-color:#EFC1CE;
+  background-color:#d4c1ef;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -26,7 +26,7 @@ body {
 }
 
 .wrapper h2:nth-child(2) {
-  color:#E6538C;
+  color:#9053e6;
   animation: ani 4s ease-in-out infinite;
 }
 
